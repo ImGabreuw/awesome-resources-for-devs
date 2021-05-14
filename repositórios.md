@@ -26,13 +26,13 @@
       </td>
     </tr>
     <tr>
-      <td>nome</td>
+      <td>java-faker</td>
       <td>
-        <a href="">autor</a>
+        <a href="https://github.com/DiUS">DiUS Computing Pty Ltd</a>
       </td>
-      <td>descrição</td>
+      <td>Brings the popular ruby faker gem to Java</td>
       <td>
-        <a href="">Github</a>
+        <a href="https://github.com/DiUS/java-faker">Github</a>
       </td>
     </tr>
   </tbody>
