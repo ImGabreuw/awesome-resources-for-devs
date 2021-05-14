@@ -127,5 +127,16 @@
         <a href="https://github.com/zThanael/Download-Musicas-pelo-Python">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>s2i-python-container</td>
+      <td>
+        <a href="https://github.com/sclorg">
+Software Collections</a>
+      </td>
+      <td>Python container images based on Red Hat Software Collections and intended for OpenShift and general usage, that provide a platform for building and running Python applications. Users can choose between Red Hat Enterprise Linux, Fedora, and CentOS based images.</td>
+      <td>
+        <a href="https://github.com/sclorg/s2i-python-container">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
