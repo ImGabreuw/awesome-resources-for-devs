@@ -91,3 +91,31 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+## Python
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Respositório</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>Download-Musicas-pelo-Python</td>
+      <td>
+        <a href="https://github.com/zThanael">zThanael</a>
+      </td>
+      <td>Projeto para fazer o dowload de musicas do youtube atraves da linguagem python</td>
+      <td>
+        <a href="https://github.com/zThanael/Download-Musicas-pelo-Python">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
