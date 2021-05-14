@@ -35,6 +35,16 @@
         <a href="https://github.com/DiUS/java-faker">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>WebSocketTutorial</td>
+      <td>
+        <a href="https://github.com/fahrican">Fahri Can</a>
+      </td>
+      <td>In this tutorial, I will show how to use Java-Websocket Library together with Kotlin.</td>
+      <td>
+        <a href="https://github.com/fahrican/WebSocketTutorial">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
