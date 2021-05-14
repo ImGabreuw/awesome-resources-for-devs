@@ -37,3 +37,31 @@
     </tr>
   </tbody>
 </table>
+
+--- 
+
+## Go
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Respositório</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>triangula</td>
+      <td>
+        <a href="https://github.com/RH12503">RH12503</a>
+      </td>
+      <td>Generate high-quality triangulated art from images.</td>
+      <td>
+        <a href="https://github.com/RH12503/triangula">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
