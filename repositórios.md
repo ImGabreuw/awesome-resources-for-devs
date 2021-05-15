@@ -74,6 +74,32 @@
   </tbody>
 </table>
 
+### JDBC 
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Respositório</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>pgjdbc-ng</td>
+      <td>
+        <a href="https://github.com/impossibl">impossibl</a>
+      </td>
+      <td>A new JDBC driver for PostgreSQL aimed at supporting the advanced features of JDBC and Postgres</td>
+      <td>
+        <a href="https://github.com/impossibl/pgjdbc-ng">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 --- 
 
 ## Go
