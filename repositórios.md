@@ -212,5 +212,15 @@ Software Collections</a>
         <a href="https://github.com/jamiebuilds/the-super-tiny-compiler">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>semantic-release</td>
+      <td>
+        <a href="https://github.com/semantic-release">semantic-release</a>
+      </td>
+      <td>📦🚀 Fully automated version management and package publishing</td>
+      <td>
+        <a href="https://github.com/semantic-release/semantic-release">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
