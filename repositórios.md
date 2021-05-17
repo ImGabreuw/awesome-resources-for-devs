@@ -174,5 +174,15 @@ Software Collections</a>
         <a href="https://github.com/jupyterhub/jupyterhub">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>google-font-to-svg-path</td>
+      <td>
+        <a href="https://github.com/danmarshall">Dan Marshall</a>
+      </td>
+      <td>Create an SVG path from a Google font</td>
+      <td>
+        <a href="https://github.com/danmarshall/google-font-to-svg-path">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
