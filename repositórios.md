@@ -245,6 +245,32 @@ Software Collections</a>
   </tbody>
 </table>
 
+### React 
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Respositório</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>react-query</td>
+      <td>
+        <a href="https://github.com/tannerlinsley">Tanner Linsley</a>
+      </td>
+      <td>⚛️ Hooks for fetching, caching and updating asynchronous data in React</td>
+      <td>
+        <a href="https://github.com/tannerlinsley/react-query">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ## TypeScript
