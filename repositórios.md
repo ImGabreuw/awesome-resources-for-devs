@@ -164,5 +164,15 @@ Software Collections</a>
         <a href="https://github.com/sclorg/s2i-python-container">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>jupyterhub</td>
+      <td>
+        <a href="https://github.com/jupyterhub">JupyterHub</a>
+      </td>
+      <td>Multi-user server for Jupyter notebooks</td>
+      <td>
+        <a href="https://github.com/jupyterhub/jupyterhub">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
