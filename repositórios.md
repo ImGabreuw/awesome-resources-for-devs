@@ -244,3 +244,31 @@ Software Collections</a>
     </tr>
   </tbody>
 </table>
+
+---
+
+## TypeScript
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Respositório</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>xstate</td>
+      <td>
+        <a href="https://github.com/davidkpiano">David Khourshid</a>
+      </td>
+      <td>State machines and statecharts for the modern web</td>
+      <td>
+        <a href="https://github.com/davidkpiano/xstate">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
