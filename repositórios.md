@@ -138,6 +138,16 @@
     <tr>
       <td>ego</td>
       <td>
+        <a href="https://github.com/gin-gonic">Gin-Gonic</a>
+      </td>
+      <td>Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</td>
+      <td>
+        <a href="https://github.com/gin-gonic/gin">Github</a>
+      </td>
+    </tr>
+    <tr>
+      <td>gin</td>
+      <td>
         <a href="https://github.com/edgelesssys">Edgeless Systems GmbH</a>
       </td>
       <td>EGo lets you build, debug, and run Go apps on Intel SGX - as simple as conventional Go programming!</td>
