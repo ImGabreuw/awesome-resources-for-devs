@@ -135,6 +135,16 @@
         <a href="https://github.com/edgelesssys/marblerun">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>ego</td>
+      <td>
+        <a href="https://github.com/edgelesssys">Edgeless Systems GmbH</a>
+      </td>
+      <td>EGo lets you build, debug, and run Go apps on Intel SGX - as simple as conventional Go programming!</td>
+      <td>
+        <a href="https://github.com/edgelesssys/ego">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
