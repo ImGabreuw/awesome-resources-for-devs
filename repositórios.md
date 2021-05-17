@@ -186,3 +186,31 @@ Software Collections</a>
     </tr>
   </tbody>
 </table>
+
+---
+
+## JavaScript
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Respositório</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>the-super-tiny-compiler</td>
+      <td>
+        <a href="https://github.com/jamiebuilds">Jamie Kyle</a>
+      </td>
+      <td>⛄ Possibly the smallest compiler ever</td>
+      <td>
+        <a href="https://github.com/jamiebuilds/the-super-tiny-compiler">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
