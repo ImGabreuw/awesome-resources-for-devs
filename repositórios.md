@@ -204,6 +204,16 @@ Software Collections</a>
         <a href="https://github.com/danmarshall/google-font-to-svg-path">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>Dica_Python_Linkedin</td>
+      <td>
+        <a href="https://github.com/Erickson-lopes-dev">Erickson Lopes</a>
+      </td>
+      <td>Este repositório é direcionado para dicas coma linguagem python, que estão sendo postadas em meu linkedin.</td>
+      <td>
+        <a href="https://github.com/Erickson-lopes-dev/Dica_Python_Linkedin">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
