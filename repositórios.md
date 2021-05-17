@@ -125,6 +125,16 @@
         <a href="https://github.com/RH12503/triangula">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>marblerun</td>
+      <td>
+        <a href="https://github.com/edgelesssys">Edgeless Systems GmbH</a>
+      </td>
+      <td>Marblerun is the service mesh for confidential computing. Deploy, scale, and verify your confidential microservices on vanilla Kubernetes. 100% Go, 100% cloud native, 100% confidential</td>
+      <td>
+        <a href="https://github.com/edgelesssys/marblerun">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
