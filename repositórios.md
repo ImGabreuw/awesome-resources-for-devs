@@ -282,6 +282,16 @@ Software Collections</a>
         <a href="https://github.com/semantic-release/semantic-release">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>cyberspace-sdk</td>
+      <td>
+        <a href="https://github.com/cyberspace-dev">cyberspace-admin</a>
+      </td>
+      <td>Cyberspace.dev - Online Game For Developers</td>
+      <td>
+        <a href="https://github.com/cyberspace-dev/cyberspace-sdk">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
