@@ -51,3 +51,29 @@
     </tr>
   </tbody>
 </table>
+
+## Design Patterns
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Fórum</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>O que é a Programação Orientada a Eventos?</td>
+      <td>
+        ---
+      </td>
+      <td>Na programação orientada a eventos, uma rotina especilizada em monitorar os eventos avisa o código especilizado em responder a um determinado evento que aquele evento que ele esperava ocorreu; e então o código recém avisado responde ao evento</td>
+      <td>
+        <a href="https://pt.stackoverflow.com/questions/80601/o-que-%C3%A9-a-programa%C3%A7%C3%A3o-orientada-a-eventos">Stackoverflow</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
