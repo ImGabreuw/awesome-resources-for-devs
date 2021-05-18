@@ -302,6 +302,16 @@ Software Collections</a>
         <a href="https://github.com/johnlindquist/kit">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>yup</td>
+      <td>
+        <a href="https://github.com/jquense">Jason Quense</a>
+      </td>
+      <td>Dead simple Object schema validation</td>
+      <td>
+        <a href="https://github.com/jquense/yup">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
