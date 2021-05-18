@@ -2,6 +2,30 @@
 
 ## Java
 
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Fórum</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>Clean Code with Java: Replace the logical condition using ENUM(if / else statements)</td>
+      <td>
+        <a href="https://medium.com/@roanmonteiro">Roan Monteiro</a>
+      </td>
+      <td>Sometimes when you arrive in an ongoing project is really hard to read and understand some codes, mainly when those codes have many if / else statements. I bring here a good to make your clean code with Java</td>
+      <td>
+        <a href="https://medium.com/@roanmonteiro/clean-code-with-java-replace-the-logical-condition-using-enum-if-else-statements-898bd6a85327">Medium</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### Spring 
 
 <table>
