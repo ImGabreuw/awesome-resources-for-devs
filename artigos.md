@@ -10,7 +10,7 @@
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Fórum</th>
     </tr>
   </thead>
   
