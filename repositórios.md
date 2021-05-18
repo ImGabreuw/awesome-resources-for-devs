@@ -45,6 +45,16 @@
         <a href="https://github.com/fahrican/WebSocketTutorial">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>spring-rest-template</td>
+      <td>
+        <a href="https://github.com/PedroLacombe">Pedro Henrique Lacombe</a>
+      </td>
+      <td>Use this repository as a basis to start the development of a new Java REST API</td>
+      <td>
+        <a href="https://github.com/PedroLacombe/spring-rest-template">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
