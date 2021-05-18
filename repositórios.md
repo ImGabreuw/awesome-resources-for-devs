@@ -99,6 +99,16 @@
         <a href="https://github.com/soujava/spring-security-hibernate-h2db-bootstrap">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>spring-boot-jwt</td>
+      <td>
+        <a href="https://github.com/murraco">Mauricio Urraco</a>
+      </td>
+      <td>JWT auth service using Spring Boot, Spring Security and MySQL</td>
+      <td>
+        <a href="https://github.com/murraco/spring-boot-jwt">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
