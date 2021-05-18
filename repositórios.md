@@ -55,6 +55,16 @@
         <a href="https://github.com/PedroLacombe/spring-rest-template">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>HeroesDIO</td>
+      <td>
+        <a href="https://github.com/Emerson26061985">Emerson Batista dos Santos</a>
+      </td>
+      <td>Digital Innovation One</td>
+      <td>
+        <a href="https://github.com/Emerson26061985/HeroesDIO">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
