@@ -368,3 +368,31 @@ Software Collections</a>
     </tr>
   </tbody>
 </table>
+
+---
+
+## Git
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Repositório</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>comandos-git</td>
+      <td>
+        <a href="https://github.com/thiagoalvesfoz">Thiago Alves</a>
+      </td>
+      <td>🔥 Comandos úteis para se dar bem no git e em projetos open source</td>
+      <td>
+        <a href="https://github.com/thiagoalvesfoz/comandos-git">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
