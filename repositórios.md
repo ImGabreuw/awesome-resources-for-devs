@@ -292,6 +292,16 @@ Software Collections</a>
         <a href="https://github.com/cyberspace-dev/cyberspace-sdk">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>kit</td>
+      <td>
+        <a href="https://github.com/johnlindquist">John Lindquist</a>
+      </td>
+      <td>Automate Anything</td>
+      <td>
+        <a href="https://github.com/johnlindquist/kit">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
