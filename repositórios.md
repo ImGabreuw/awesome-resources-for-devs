@@ -89,6 +89,16 @@
         <a href="https://github.com/Emerson26061985/HeroesDIO">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>spring-security-hibernate-h2db-bootstrap</td>
+      <td>
+        <a href="https://github.com/soujava">SouJava</a>
+      </td>
+      <td>Basic app to bootstrap Hibernate + Spring + Spring Security + H2DB</td>
+      <td>
+        <a href="https://github.com/soujava/spring-security-hibernate-h2db-bootstrap">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
