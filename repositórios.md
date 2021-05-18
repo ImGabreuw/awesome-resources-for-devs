@@ -10,7 +10,7 @@
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   
@@ -76,7 +76,7 @@
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   
@@ -102,7 +102,7 @@
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   
@@ -130,7 +130,7 @@
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   
@@ -188,7 +188,7 @@
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   
@@ -257,7 +257,7 @@ Software Collections</a>
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   
@@ -303,7 +303,7 @@ Software Collections</a>
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   
@@ -331,7 +331,7 @@ Software Collections</a>
       <th>Nome</th>
       <th>Autor</th>
       <th>Descrição</th>
-      <th>Respositório</th>
+      <th>Repositório</th>
     </tr>
   </thead>
   
