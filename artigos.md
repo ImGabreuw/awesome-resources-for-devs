@@ -49,6 +49,16 @@
         <a href="https://brandao-taua.medium.com/rest-api-with-java-docker-and-postgresql-simplified-219136414599">Medium</a>
       </td>
     </tr>
+    <tr>
+      <td>Custom Repository in Spring Data JPA</td>
+      <td>
+        <a href="https://tranthanhdeveloper.com/">Thanh Tran</a>
+      </td>
+      <td>Spring Data JPA already provides many solutions that allow us to query data easier such as Query Method, Query Method, or four repository interface</td>
+      <td>
+        <a href="https://programmingsharing.com/custom-repositories-in-spring-data-jpa-21fdabf91d9c">ProgrammingSharing</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
