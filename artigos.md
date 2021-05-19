@@ -59,6 +59,16 @@
         <a href="https://programmingsharing.com/custom-repositories-in-spring-data-jpa-21fdabf91d9c">ProgrammingSharing</a>
       </td>
     </tr>
+    <tr>
+      <td>Ehcache Configuration in Spring Boot</td>
+      <td>
+        <a href="https://tranthanhdeveloper.com/">Thanh Tran</a>
+      </td>
+      <td>An article showing how to configure Ehcache in Spring Boot application. It’s covered for both Ehcache 2 and Ehcache 3</td>
+      <td>
+        <a href="https://programmingsharing.com/ehcache-configuration-in-spring-boot-162d754bcaf6">ProgrammingSharing</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
