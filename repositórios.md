@@ -109,6 +109,16 @@
         <a href="https://github.com/murraco/spring-boot-jwt">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>spring-boot-microservice-example</td>
+      <td>
+        <a href="https://github.com/subhashlamba">Subhash Lamba</a>
+      </td>
+      <td>Spring boot microservice example with Eureka Server + Eureka Client + Spring Cloud API Gateway + OAuth2.0 + Circuit Breaker + Resilience4J + FeignClient + RestTemplate</td>
+      <td>
+        <a href="https://github.com/subhashlamba/spring-boot-microservice-example">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
