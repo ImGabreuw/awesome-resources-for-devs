@@ -69,6 +69,16 @@
         <a href="https://programmingsharing.com/ehcache-configuration-in-spring-boot-162d754bcaf6">ProgrammingSharing</a>
       </td>
     </tr>
+    <tr>
+      <td>Spring Boot - Loading Initial Data</td>
+      <td>
+        <a href="https://kurular4.medium.com/">Ömer Kurular</a>
+      </td>
+      <td>In this post, I am going to talk about loading initial data to our database for later use in our Spring Boot application</td>
+      <td>
+        <a href="https://kurular4.medium.com/spring-boot-loading-initial-data-b87f6dc13384">Medium</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
