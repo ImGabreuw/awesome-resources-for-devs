@@ -23,6 +23,16 @@
         <a href="https://github.com/soujava/annotation-processors">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>compile-testing</td>
+      <td>
+        <a href="https://github.com/google">Google</a>
+      </td>
+      <td>Testing tools for javac and annotation processors</td>
+      <td>
+        <a href="https://github.com/google/compile-testing/tree/master/src/test/java/com/google/testing/compile">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
