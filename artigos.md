@@ -95,5 +95,15 @@
         <a href="https://pt.stackoverflow.com/questions/80601/o-que-%C3%A9-a-programa%C3%A7%C3%A3o-orientada-a-eventos">Stackoverflow</a>
       </td>
     </tr>
+    <tr>
+      <td>How To Make A Perfect Class In Singleton Design Pattern</td>
+      <td>
+        <a href="https://viveknaskar.medium.com/">Vivek Naskar</a>
+      </td>
+      <td>There are three ways you can break your Singleton class and you must know how to prevent it</td>
+      <td>
+        <a href="https://blog.devgenius.io/how-to-make-a-perfect-class-in-singleton-design-pattern-edc4a9b5935e">Devgenius</a>
+      </td>
+    </tr>
   </tbody>
 </table>
