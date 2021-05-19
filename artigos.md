@@ -23,6 +23,16 @@
         <a href="https://medium.com/@roanmonteiro/clean-code-with-java-replace-the-logical-condition-using-enum-if-else-statements-898bd6a85327">Medium</a>
       </td>
     </tr>
+    <tr>
+      <td>Stream API -most useful operations</td>
+      <td>
+        <a href="https://ds73306.medium.com/">Deepika sharma</a>
+      </td>
+      <td>Esse artigo aborda alguns conceitos sobre a Stream API e também seus métodos mais utilizados / úteis. Além disso, o autor dá exemplos de uso e um breve resumo sobre cada função</td>
+      <td>
+        <a href="https://ds73306.medium.com/stream-api-most-useful-operations-28e3988002d0">Medium</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
