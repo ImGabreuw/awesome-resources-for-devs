@@ -89,6 +89,16 @@
         <a href="https://kurular4.medium.com/spring-boot-loading-initial-data-b87f6dc13384">Medium</a>
       </td>
     </tr>
+    <tr>
+      <td>How To Get Rid of Annoying Java Types Mappings in Spring Boot Application</td>
+      <td>
+        <a href="https://datamify.com/author/vader/">Admin</a>
+      </td>
+      <td>Esse artigo abaixo fala sobre o MapStruct. Essa biblioteca facilita muito a converção de entidades de domínio para DTO e vice versa.</td>
+      <td>
+        <a href="https://datamify.com/spring/java-types-mappings-in-spring-boot-application/">Datamify</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
