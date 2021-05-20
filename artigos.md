@@ -99,6 +99,16 @@
         <a href="https://datamify.com/spring/java-types-mappings-in-spring-boot-application/">Datamify</a>
       </td>
     </tr>
+    <tr>
+      <td>Better Testing with Spring Security Test</td>
+      <td>
+        <a href="https://developer.okta.com/blog/authors/jimena-garbarino//">Jimena Garbarino</a>
+      </td>
+      <td>Nesse artigo, abordará simulação de segurança com SecurityMockServerConfigurers e SecurityMockMvcRequestPostProcessors e além disso, testes de autorização</td>
+      <td>
+        <a href="https://developer.okta.com/blog/2021/05/19/spring-security-testing">Developer Okta</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
