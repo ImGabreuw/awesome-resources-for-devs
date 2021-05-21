@@ -396,6 +396,16 @@ Software Collections</a>
         <a href="https://github.com/typicode/json-server">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>fastify-express</td>
+      <td>
+        <a href="https://github.com/fastify">Fastify</a>
+      </td>
+      <td>Express compatibility layer for Fastify</td>
+      <td>
+        <a href="https://github.com/fastify/fastify-express">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
