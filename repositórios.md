@@ -386,6 +386,16 @@ Software Collections</a>
         <a href="https://github.com/jquense/yup">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>json-server</td>
+      <td>
+        <a href="https://github.com/typicode">typicode</a>
+      </td>
+      <td>Get a full fake REST API with zero coding in less than 30 seconds (seriously)</td>
+      <td>
+        <a href="https://github.com/typicode/json-server">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
