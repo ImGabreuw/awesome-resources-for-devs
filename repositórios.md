@@ -328,6 +328,16 @@ Software Collections</a>
         <a href="https://github.com/HypothesisWorks/hypothesis">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>fastapi</td>
+      <td>
+        <a href="https://github.com/tiangolo">Sebastián Ramírez</a>
+      </td>
+      <td>FastAPI framework, high performance, easy to learn, fast to code, ready for production</td>
+      <td>
+        <a href="https://github.com/tiangolo/fastapi">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
