@@ -426,6 +426,16 @@ Software Collections</a>
         <a href="https://github.com/fastify/fastify-express">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>mjml</td>
+      <td>
+        <a href="https://github.com/mjmlio">MJML</a>
+      </td>
+      <td>MJML: the only framework that makes responsive-email easy</td>
+      <td>
+        <a href="https://github.com/mjmlio/mjml">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
