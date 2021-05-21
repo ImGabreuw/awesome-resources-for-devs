@@ -338,6 +338,16 @@ Software Collections</a>
         <a href="https://github.com/tiangolo/fastapi">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>formulas-python</td>
+      <td>
+        <a href="https://github.com/GuillaumeFalourd">Guillaume Falourd</a>
+      </td>
+      <td>Ritchie CLI formulas in Python 🐍</td>
+      <td>
+        <a href="https://github.com/GuillaumeFalourd/formulas-python">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
