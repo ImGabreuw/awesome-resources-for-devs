@@ -33,6 +33,16 @@
         <a href="https://github.com/google/compile-testing/tree/master/src/test/java/com/google/testing/compile">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>elasticsearch</td>
+      <td>
+        <a href="https://github.com/elastic">elastic</a>
+      </td>
+      <td>Free and Open, Distributed, RESTful Search Engine</td>
+      <td>
+        <a href="https://github.com/elastic/elasticsearch">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
