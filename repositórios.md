@@ -308,6 +308,16 @@ Software Collections</a>
         <a href="https://github.com/Erickson-lopes-dev/Dica_Python_Linkedin">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>flask-docker-redis-postgres</td>
+      <td>
+        <a href="https://github.com/vjanz">Valon Januzaj</a>
+      </td>
+      <td>A simple python project using Flask, Redis, and Postgres</td>
+      <td>
+        <a href="https://github.com/vjanz/flask-docker-redis-postgres">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
