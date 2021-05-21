@@ -455,6 +455,32 @@ Software Collections</a>
   </tbody>
 </table>
 
+### NodeJS 
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Repositório</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>nodebestpractices</td>
+      <td>
+        <a href="https://github.com/goldbergyoni">Yoni Goldberg</a>
+      </td>
+      <td>✅ The Node.js best practices list (May 2021)</td>
+      <td>
+        <a href="https://github.com/goldbergyoni/nodebestpractices">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ## TypeScript
