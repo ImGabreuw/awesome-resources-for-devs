@@ -109,6 +109,16 @@
         <a href="https://developer.okta.com/blog/2021/05/19/spring-security-testing">Developer Okta</a>
       </td>
     </tr>
+    <tr>
+      <td>How To Optimize Spring Boot Application with Distributed Cache</td>
+      <td>
+        <a href="https://datamify.com/author/vader/">vader</a>
+      </td>
+      <td>Nesse artigo, abordará a implementação do Redis Cache para otimização de uma aplicação</td>
+      <td>
+        <a href="https://datamify.com/spring/distributed-cache-in-spring-boot-application-with-redis/">Datamify</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
