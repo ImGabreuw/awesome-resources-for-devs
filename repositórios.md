@@ -564,5 +564,15 @@ Software Collections</a>
         <a href="https://github.com/thiagoalvesfoz/comandos-git">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>Git-Commands</td>
+      <td>
+        <a href="https://github.com/joshnh">Joshua Hibbert</a>
+      </td>
+      <td>A list of commonly used Git commands</td>
+      <td>
+        <a href="https://github.com/joshnh/Git-Commands">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
