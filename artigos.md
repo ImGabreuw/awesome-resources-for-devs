@@ -157,3 +157,30 @@
     </tr>
   </tbody>
 </table>
+
+
+## YAML
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Fórum</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>6 YAML Features most programmers don’t know?</td>
+      <td>
+        <a href="https://martinthoma.medium.com/">Martin Thoma</a>
+      </td>
+      <td>YAML is a file format commonly used for data serialization. There are a plethora of projects using YAML files for configuration, such as Docker-compose, pre-commit, TravisCI, AWS Cloudformation, ESLint, Kubernetes, Ansible, and many more. Knowing the features of YAML helps you with all of them.</td>
+      <td>
+        <a href="https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3">levelup.gitconnected</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
