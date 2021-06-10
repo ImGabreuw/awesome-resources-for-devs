@@ -33,6 +33,16 @@
         <a href="https://ds73306.medium.com/stream-api-most-useful-operations-28e3988002d0">Medium</a>
       </td>
     </tr>
+    <tr>
+      <td>15 Practical Exercises Help You Master Java Stream API</td>
+      <td>
+        <a href="https://medium.com/@gavinklfong">Gavin Fong</a>
+      </td>
+      <td>Simplify Your Code Logic Using Powerful Java Stream API</td>
+      <td>
+        <a href="https://blog.devgenius.io/15-practical-exercises-help-you-master-java-stream-api-3f9c86b1cf82">Medium</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
