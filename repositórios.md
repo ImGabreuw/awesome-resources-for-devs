@@ -536,6 +536,16 @@ Software Collections</a>
         <a href="https://github.com/davidkpiano/xstate">Github</a>
       </td>
     </tr>
+    <tr>
+      <td>awesome-typescript</td>
+      <td>
+        <a href="https://github.com/dzharii">Dmytro Zharii</a>
+      </td>
+      <td>Uma coleção de recursos incríveis do TypeScript para desenvolvimento do lado do cliente e do lado do servidor. Escreva seu incrível JavaScript em TypeScript</td>
+      <td>
+        <a href="https://github.com/dzharii/awesome-typescript">Github</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
