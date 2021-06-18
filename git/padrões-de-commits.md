@@ -1,5 +1,7 @@
 # Padrões de commits
 
+> **Referência**:  [commit-style-guide](https://github.com/DevCia/commit-style-guide)
+
 ### Guia de estilo
 
 * Utilize modo imperativo: "Adiciona feature";
