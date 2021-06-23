@@ -1,9 +1,6 @@
-# README que eu utilizo nos meus projetos
+# README in Inglish
 
-### README in Inglish
-
-**Code**
----
+### **Code**
 
 ```markdown
 # PROJECT NAME
@@ -91,8 +88,14 @@ This project is under license. See the archive [LICENSE](LICENSE.md) for more de
 
 ```
 
-**Example**
+* **IMPORTANT**
+
+  * Replace <CAPSLOCK> to what is written between `<` and `>`
+  * To get the **avatar URL** go to `https://github.com/<YOUR USERNAME ON GITHUB>.png` (**EXAMPLE**: `https://github.com/ImGabreuw.png`)
+
 ---
+
+### **Example**
 
 # letmeask
 
