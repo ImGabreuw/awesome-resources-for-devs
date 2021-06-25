@@ -9,3 +9,8 @@
   <summary>Solrachix</summary>
   <img src="./prints/solrachix.png" alt="solrachix">
 </details>
+
+<details>
+  <summary>Solrachix</summary>
+  <img src="./prints/renan-pereira.PNG" alt="Renan Pereira">
+</details>
