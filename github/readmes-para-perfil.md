@@ -11,6 +11,13 @@
 </details>
 
 <details>
-  <summary>Solrachix</summary>
+  <summary>Renan Pereira</summary>
   <img src="./prints/renan-pereira.PNG" alt="Renan Pereira">
+</details>
+
+<details>
+  <summary>brunoemferreira</summary>
+  <img src="./prints/brunoemferreira1.PNG" alt="brunoemferreira">
+  <img src="./prints/brunoemferreira2.PNG" alt="brunoemferreira">
+  <img src="./prints/brunoemferreira3.PNG" alt="brunoemferreira">
 </details>
